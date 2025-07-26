@@ -10,7 +10,7 @@
 <br />
 <div align="center">
   <a href="https://github.com/FuryCode-bit/VenturesHUB">
-    <img src="https://raw.githubusercontent.com/FuryCode-bit/VenturesHUB/main/readme/logo.png" alt="Logo" height="80">
+    <img src="https://raw.githubusercontent.com/FuryCode-bit/VenturesHUB/master/readme/logo.png" alt="Logo" height="80">
   </a>
 
 <h3 align="center">VentureHUB: A Web3 Platform for Startup Investment</h3>
@@ -356,10 +356,10 @@ This project was developed as part of the Distributed Ledger Technologies (Tecno
 [stars-shield]: https://img.shields.io/github/stars/FuryCode-bit/VenturesHUB.svg?style=for-the-badge
 [stars-url]: https://github.com/FuryCode-bit/VenturesHUB/stargazers
 [license-shield]: https://img.shields.io/github/license/FuryCode-bit/VenturesHUB.svg?style=for-the-badge
-[license-url]: https://github.com/FuryCode-bit/VenturesHUB/blob/main/LICENSE
+[license-url]: https://github.com/FuryCode-bit/VenturesHUB/blob/master/LICENSE
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://linkedin.com/in/bernardeswebdev
-[project-screenshot]: https://github.com/FuryCode-bit/VenturesHUB/main/readme/project.png
+[project-screenshot]: https://github.com/FuryCode-bit/VenturesHUB/master/readme/project.png
 
 <!-- Tech Shields -->
 [Solidity-shield]: https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=solidity&logoColor=white
